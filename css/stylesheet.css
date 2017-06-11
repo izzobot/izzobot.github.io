@@ -1,0 +1,39 @@
+body {
+	font-family:sans-serif;
+	height:100%;
+	margin:0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+div.container {
+	text-align: center;
+}
+
+div.links {
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+}
+
+a.navigation {
+	text-decoration: none;
+	color:#000;
+	font-size:15px;
+	margin: 10px;
+	transition: all 0.2s;
+}
+
+a.navigation:hover {
+	color:#777;
+}
+
+h1.title {
+	font-family:"Roboto";
+	font-weight:900;
+	font-size: 100px;
+	color:#000;
+}
+
+img.icon {
+	width:32px;
+}
